@@ -6,3 +6,5 @@ GIT常用指令
 
 
 给当前分支打标签：git tag
+
+test tag
