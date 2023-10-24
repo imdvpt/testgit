@@ -1,0 +1,8 @@
+git 命令大全
+GIT常用指令
+
+显示分支 ： git branch
+切换分支：  git checkout 分支名
+
+
+给当前分支打标签：git tag
